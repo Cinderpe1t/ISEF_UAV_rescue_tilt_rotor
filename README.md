@@ -3,7 +3,7 @@
 - `dxl_uav_class.py`: Class definition for Dynamixel servo motor control, migrated from Dynamixel example from Robotis
 - `uav_control_v1.py`: In-arm pitch axis and roll control demonstration at a on-board JETSON Orin mission controller
 ## Operation
-- It requires Dynamixel library installed.
+- It requires Dynamixel python library installed (https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/).
 - It printes an operation instrcution on screen.
 ```
 #Print keyboard interface instructions
