@@ -1,4 +1,5 @@
 # ISEF 2024 ETSD037 Rescue UAV Dual Tilt Rotor Control
+Python codes to control rescue UAV's dual tilt rotor at mission controller.
 ## Python Codes
 - `dxl_uav_class.py`: Class definition for Dynamixel servo motor control, migrated from Dynamixel example from Robotis
 - `uav_control_v1.py`: In-arm pitch axis and roll control demonstration at a on-board JETSON Orin mission controller
