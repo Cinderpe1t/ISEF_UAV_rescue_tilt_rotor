@@ -23,4 +23,9 @@ print("ESC to quit")
 print("------------------------------------------")
 ```
 ## Example
+- Simultaneous dual axis rotation
 ![sample image](https://github.com/Cinderpe1t/ISEF_UAV_rescue_tilt_rotor/blob/main/Dual-axis%20tilt%20rotor%20test.png)
+- Pitch minus angle
+![pitch angle minus](https://github.com/Cinderpe1t/ISEF_UAV_rescue_tilt_rotor/blob/main/rescue%20UAV%20arm%20pitch%20angle%20minus%2045.jpeg)
+- Pitch plus angle
+![pitch angle plus](https://github.com/Cinderpe1t/ISEF_UAV_rescue_tilt_rotor/blob/main/rescue%20UAV%20arm%20pitch%20angle%20plus%2045.jpeg)
