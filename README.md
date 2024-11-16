@@ -6,7 +6,7 @@ Python codes to control rescue UAV's dual tilt rotor at mission controller.
 ## Operation
 - It requires Dynamixel python library installed (https://emanual.robotis.com/docs/en/software/dynamixel/dynamixel_sdk/overview/).
 - `python uav_control_v1.py`
-- It printes an operation instrcution on screen.
+- It prints an operation instruction on screen.
 ```
 #Print keyboard interface instructions
 print("------------------------------------------")
